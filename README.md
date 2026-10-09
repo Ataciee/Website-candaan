@@ -9,3 +9,5 @@ def tentang():
 @app.route("/tentang")
 def halaman():
     return "<p>RANGGA KARBITTT</p><br/><a href='/'>balik ke halaman</a>"
+
+ODETTE PUNYA GUEEEEEE
